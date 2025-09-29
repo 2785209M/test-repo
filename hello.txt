@@ -3,4 +3,8 @@ Fine Weather We're having!
 Toodeloo! 
 The wheel on the bus goes round and round
 IM CHANGING THIS FILE HAHAHA im evil
+<<<<<<< HEAD
 What you're about to say is "NOOOO HOW COULD THIS BE"
+=======
+NOOOO HOW COULD THIS BE *GHASP* how did he know
+>>>>>>> 6e66e32b5226cb7d44c45d6f3e60ef037fbe0392
